@@ -1,0 +1,127 @@
+a:link, a:visited
+		{
+		background-color: #DC7633;
+		color: black;
+		padding: 10px;
+		font-size: 25px;
+		font-family: 'Fraunces', serif;
+		text-decoration: none;
+		display: inline-block;
+		border: solid;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+		border-top-right-radius: 5px;
+
+		}
+		
+		a:hover
+		{
+			color: black;
+			background-color: #EAF2F8;
+			text-decoration: none;
+		}
+
+		a:active
+		{
+			color: black;
+			background-color: #e699ff;
+			text-decoration: none;
+		}
+
+body
+{
+background-color: moccasin;
+}
+
+h1
+{
+font-family: 'Satisfy', cursive;
+background: #DC7633;
+font-size: 100px;
+text-align: center;
+border-style: solid;
+}
+
+h2 {
+	color: Black;
+	background: #DC7633;
+	font-family: 'Courgette', cursive;
+	font-size: 80px;
+	border-style: dotted;
+	border-color: black;
+	border-radius: 50px;
+	text-align: center;
+}
+
+h3
+{
+font-family: 'Courgette', cursive;
+background: #90BF94;
+font-size: 50px;
+color: Black;
+}
+
+h4 {
+	color: Black;
+	background: #EAF2F8;
+	font-family: 'Do Hyeon', sans-serif;
+	font-size: 25px;
+	border: groove;
+	border-color: transparent;
+	border-radius: 0px;
+}
+
+h5
+	{
+	color: White;
+	background: black;
+	font-family: 'Nerko One', cursive;
+	font-size: 25px;
+	border: double;
+	border-color: white;
+	border-radius: 17px;
+}
+
+h6 {
+	color: Black;
+	background: #90BF94;
+	font-family: 'Do Hyeon', sans-serif;
+	font-size: 25px;
+	border: double;
+	border-color: #90BF94;
+	border-width: 50px;
+	border-radius: 0px;
+}
+
+p
+	{
+	font-family: 'Comic Neue', cursive;
+	font-size: 30px;
+	text-align: justify;
+	font-weight: bold;
+}
+
+
+li 
+		{
+ 			display: list-item;
+  			background-color: #e3f5a4;
+  			font-family: 'Comic Neue', cursive;
+  			font-size: 30px;
+			text-align: justify;
+  			color: black;
+  			padding: 15px;
+  			font-weight: bolder;
+  		}
+
+ td 
+ {
+
+ 	font-family: 'Comic Neue', cursive;
+	font-size: 30px;
+	text-align: justify;
+	font-weight: bold;
+
+ }
+ 		
